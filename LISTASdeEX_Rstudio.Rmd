@@ -1,0 +1,26 @@
+#ex01
+ana <- 8
+paulo <- 12
+
+if (ana > paulo){
+  print("A menina é mais velha.")
+}   else if (ana < paulo){
+  print("O menino é mais velho")
+} else{
+  print("Ana e Paulo tem a mesma idade")
+}
+
+#ex02
+#install.packages("BOD")
+class(BOD)
+
+#EX03
+# Criando um vetor de 1 a 10
+vetor <- 1:10
+
+# Imprimindo os valores
+print(vetor)
+
+#EX04
+tail(women, 10)
+
